@@ -1,2 +1,2 @@
 # client_cli
-Repo for client project to manage all the versioning and send on slack group without too much of code 
+Repo for managing versioning of the client project and sending updates to the Slack group with minimal coding.
