@@ -1,0 +1,17 @@
+{
+  "name": "client_cli",
+  "version": "1.0.0",
+  "description": "Repo for managing versioning of the client project and sending updates to slack group with minimal coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/web-api": "^7.8.0",
+    "archiver": "^7.0.1",
+    "commander": "^13.0.0",
+    "dotenv": "^16.4.7"
+  }
+}
