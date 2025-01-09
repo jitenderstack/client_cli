@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "bin": {
+    "localCli": "./index.js"
+  },
+  "author": "Jitender Attri",
   "license": "ISC",
   "dependencies": {
     "@slack/web-api": "^7.8.0",
